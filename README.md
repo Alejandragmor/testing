@@ -13,7 +13,7 @@ C
 
 # Diego
 
-* Hola desde Diego *
+borre tu parte Diego, me siento hacker
  
 
 # Germain
