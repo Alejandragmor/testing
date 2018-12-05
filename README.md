@@ -5,7 +5,7 @@ Hola desde Max, adios, hola de nuevo
 
 # Diego
 
-* Hola desde Diego *
+borre tu parte Diego, me siento hacker
  
 
 # Germain
