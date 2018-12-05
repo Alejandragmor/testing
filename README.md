@@ -13,15 +13,17 @@ C
 
 # Diego
 
-
+* Hola desde Diego *
+ 
 
 # Germain
 
+*Estoy modificando mi archivo, lento pero seguro* 
 
 # Francisco
 
 
-# Alejandra
+# Alejandra Hola amigos! :)
 
 
 # Ale
