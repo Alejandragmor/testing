@@ -30,9 +30,5 @@ sx
 # Ale
  *cidcampeador* ^_^
 #
-<<<<<<< HEAD
 hola hola
-=======
-
 Hola a todos
->>>>>>> 0002515b715e30751056d846f07340d641e927c6
