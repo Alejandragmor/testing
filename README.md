@@ -1,6 +1,14 @@
 # TESTING
 
-Hola desde Max, adios, hola de nuevo
+Hola desde Max, adios, hola de nuevo , hola otra vez
+
+C
+CCCC
+C
+
+
+
+
 
 
 # Diego
@@ -15,7 +23,8 @@ Eres malo Germain
 # Francisco
 
 
-# Alejandra Hola amigos! :)
+# Alejandra
+###  Hola amigos! :)
 
 
 # Ale
