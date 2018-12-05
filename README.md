@@ -1,12 +1,20 @@
 # TESTING
 
-Hola desde Max, adios, hola de nuevo
+Hola desde Max, adios, hola de nuevo , hola otra vez
+
+C
+CCCC
+C
+
+
+
+
 
 
 # Diego
 
-* Hola desde Diego *
- 
+borre tu parte Diego, me siento hacker
+Eres malo Germain 
 
 # Germain
 
@@ -15,10 +23,12 @@ Hola desde Max, adios, hola de nuevo
 # Francisco
 **Holi**
 
-# Alejandra Hola amigos! :)
+# Alejandra
+###  Hola amigos! :)
 
 
 # Ale
-
+ *cidcampeador* ^_^
 #
 
+Hola a todos
