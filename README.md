@@ -14,7 +14,7 @@ C
 # Diego
 
 borre tu parte Diego, me siento hacker
- 
+sx
 
 # Germain
 
@@ -30,4 +30,9 @@ borre tu parte Diego, me siento hacker
 # Ale
 
 #
+<<<<<<< HEAD
 hola hola
+=======
+
+Hola a todos
+>>>>>>> 0002515b715e30751056d846f07340d641e927c6
