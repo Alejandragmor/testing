@@ -14,7 +14,7 @@ C
 # Diego
 
 borre tu parte Diego, me siento hacker
- 
+Eres malo Germain 
 
 # Germain
 
@@ -31,3 +31,4 @@ borre tu parte Diego, me siento hacker
  *cidcampeador* ^_^
 #
 
+Hola a todos
